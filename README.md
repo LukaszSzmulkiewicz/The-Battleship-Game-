@@ -6,6 +6,6 @@ Index 0 is used for the field name A1, A2..., the index 1 is used to record the 
 The user is able to place the ships vertically and horizontally. The program also validates the user choice to make sure the ship fits in the 10x10 board range. 
 The program lets the user know if the ship destroyed or not.
 
-What I learned?
+What did I learn?
 
 I learned how to transfer a game logic into a programming language via combination of a classes, objects, data structures, loops and nested methods
